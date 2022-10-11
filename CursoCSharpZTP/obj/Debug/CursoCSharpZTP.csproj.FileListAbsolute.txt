@@ -1,0 +1,8 @@
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\bin\Debug\CursoCSharpZTP.exe.config
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\bin\Debug\CursoCSharpZTP.exe
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\bin\Debug\CursoCSharpZTP.pdb
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.csproj.AssemblyReference.cache
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.csproj.CoreCompileInputs.cache
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.exe
+C:\Users\Touch\source\repos\CursoCSharpZTP\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.pdb
