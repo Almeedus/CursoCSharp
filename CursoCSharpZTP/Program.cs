@@ -8,6 +8,9 @@ namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+                {"Comentario - Fundamentos", Comentario.Executar},
+                {"Variavel E Constantes - Fundamentos", VariavelEConstantes.Executar},
+                {"Inferencia De Tipos - Fundamentos", InferenciaDeTipos.Executar},
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar},
                 {"Lendo Dados Do Console - Fundamentos", LendoDadosDoConsole.Executar},
                 {"Formatando Numeros - Fundamentos", FormatandoNumeros.Executar},
@@ -27,6 +30,7 @@ namespace CursoCSharp {
                 {"While - Fundamentos", While.Executar},
                 {"Do While - Fundamentos", DoWhile.Executar},
                 {"For - Fundamentos", For.Executar},
+                {"Foreach - Fundamentos", ForEach.Executar},
             });
 
             central.SelecionarEExecutar();
