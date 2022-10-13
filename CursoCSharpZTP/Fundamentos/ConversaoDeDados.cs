@@ -8,7 +8,7 @@ namespace CursoCSharpZTP.Fundamentos {
     internal class ConversaoDeDados {
         public static void Executar() {
 
-            //Conversão implicita
+            //Conversão implicita = Sem perda de informação
             int inteiro = 10;
             double quebrado = inteiro;
 
@@ -16,7 +16,7 @@ namespace CursoCSharpZTP.Fundamentos {
             Console.WriteLine($"valor quebrado: {quebrado}");
 
 
-            //Conversão explicita
+            //Conversão explicita = Com perda de informação
             double nota = 9.7;
             int notaTruncada = (int)nota;
 

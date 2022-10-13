@@ -44,10 +44,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="EstruturaDeControle\DoWhile.cs" />
+    <Compile Include="EstruturaDeControle\EstruturaElse.cs" />
+    <Compile Include="EstruturaDeControle\EstruturaIf.cs" />
+    <Compile Include="EstruturaDeControle\EstruturaIfElseIf.cs" />
+    <Compile Include="EstruturaDeControle\For.cs" />
+    <Compile Include="EstruturaDeControle\SwitchCase.cs" />
+    <Compile Include="EstruturaDeControle\While.cs" />
     <Compile Include="Fundamentos\ConversaoDeDados.cs" />
     <Compile Include="Fundamentos\FormatandoNumeros.cs" />
     <Compile Include="Fundamentos\LendoDadosDoConsole.cs" />
     <Compile Include="Fundamentos\NotacaoPonto.cs" />
+    <Compile Include="Fundamentos\OperadoresAritmeticos.cs" />
+    <Compile Include="Fundamentos\OperadoresDeAtribuicao.cs" />
+    <Compile Include="Fundamentos\OperadoresLogicos.cs" />
+    <Compile Include="Fundamentos\OperadoresRelacionais.cs" />
+    <Compile Include="Fundamentos\OperadoresTernarios.cs" />
+    <Compile Include="Fundamentos\OperadoresUnarios.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
