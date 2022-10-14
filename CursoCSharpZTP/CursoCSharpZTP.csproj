@@ -44,6 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ClassesEMetodos\Construtor.cs" />
+    <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
+    <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\Pessoa.cs" />
+    <Compile Include="DesafiosDanilo\Loop9.cs" />
     <Compile Include="EstruturaDeControle\DoWhile.cs" />
     <Compile Include="EstruturaDeControle\EstruturaElse.cs" />
     <Compile Include="EstruturaDeControle\EstruturaIf.cs" />
@@ -65,11 +70,13 @@
     <Compile Include="Fundamentos\OperadoresTernarios.cs" />
     <Compile Include="Fundamentos\OperadoresUnarios.cs" />
     <Compile Include="Fundamentos\VariavelEConstantes.cs" />
+    <Compile Include="ClassesEMetodos\Membro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

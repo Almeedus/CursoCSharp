@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 using CursoCSharpZTP.Fundamentos;
 using CursoCSharpZTP.EstruturaDeControle;
+using CursoCSharpZTP.ClassesEMetodos;
+using CursoCSharpZTP;
+using CursoCSharpZTP.DesafiosDanilo;
 
 namespace CursoCSharp {
     class Program {
@@ -23,14 +26,23 @@ namespace CursoCSharp {
                 {"Operadores Ternarios - Fundamentos", OperadoresTernarios.Executar},
 
                 //Estrutura de controle
-                {"Estrutura If - Fundamentos", EstruturaIf.Executar},
-                {"Estrutura Else - Fundamentos", EstruturaElse.Executar},
-                {"Estrutura If Else If - Fundamentos", EstruturaIfElseIf.Executar},
-                {"Switch Case - Fundamentos", SwitchCase.Executar},
-                {"While - Fundamentos", While.Executar},
-                {"Do While - Fundamentos", DoWhile.Executar},
-                {"For - Fundamentos", For.Executar},
-                {"Foreach - Fundamentos", ForEach.Executar},
+                {"Estrutura If - Estrutura De Controle", EstruturaIf.Executar},
+                {"Estrutura Else - Estrutura De Controle", EstruturaElse.Executar},
+                {"Estrutura If Else If - Estrutura De Controle", EstruturaIfElseIf.Executar},
+                {"Switch Case - Estrutura De Controle", SwitchCase.Executar},
+                {"While - Estrutura De Controle", While.Executar},
+                {"Do While - Estrutura De Controle", DoWhile.Executar},
+                {"For - Estrutura De Controle", For.Executar},
+                {"Foreach - Estrutura De Controle", ForEach.Executar},
+
+                //Classes e Métodos
+                {"Membro - Classes e Metodos", Membro.Executar},
+                {"Construtores - Classes e Metodos", Construtor.Executar},
+                {"Metodos Com Retorno - Classes e Metodos", MetodosComRetorno.Executar},
+                {"Metodos Estáticos - Classes e Metodos", MetodosEstaticos.Executar},
+
+                //Danilão
+                {"Pequena Sereia - Desafio", Loop9.Executar},
             });
 
             central.SelecionarEExecutar();
