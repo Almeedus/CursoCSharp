@@ -33,7 +33,7 @@ namespace CursoCSharpZTP.DesafiosDanilo {
 
             foreach (int n in numeros) {
 
-                if (numeros[n] == 10) {
+                if (n == 10) {
                     Console.Write($"{n} - ");
                     Console.WriteLine("Fala pequena sereia");
                     break;

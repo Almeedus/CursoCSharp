@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ClassesEMetodos\AtributoEstatico.cs" />
     <Compile Include="ClassesEMetodos\Construtor.cs" />
+    <Compile Include="ClassesEMetodos\DesafioAcessarAtributo.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
     <Compile Include="ClassesEMetodos\Pessoa.cs" />

@@ -40,6 +40,8 @@ namespace CursoCSharp {
                 {"Construtores - Classes e Metodos", Construtor.Executar},
                 {"Metodos Com Retorno - Classes e Metodos", MetodosComRetorno.Executar},
                 {"Metodos Estáticos - Classes e Metodos", MetodosEstaticos.Executar},
+                {"Atributo Estático - Classes e Metodos", AtributoEstatico.Executar},
+                {"Desafio Acessar Atributo - Classes e Metodos", DesafioAcessarAtributo.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
