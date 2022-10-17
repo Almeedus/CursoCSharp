@@ -49,6 +49,7 @@
     <Compile Include="ClassesEMetodos\DesafioAcessarAtributo.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\Params.cs" />
     <Compile Include="ClassesEMetodos\Pessoa.cs" />
     <Compile Include="DesafiosDanilo\Loop9.cs" />
     <Compile Include="EstruturaDeControle\DoWhile.cs" />

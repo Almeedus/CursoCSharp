@@ -42,6 +42,7 @@ namespace CursoCSharp {
                 {"Metodos Estáticos - Classes e Metodos", MetodosEstaticos.Executar},
                 {"Atributo Estático - Classes e Metodos", AtributoEstatico.Executar},
                 {"Desafio Acessar Atributo - Classes e Metodos", DesafioAcessarAtributo.Executar},
+                {"Parametros Variaveis - Classes e Metodos", Params.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
