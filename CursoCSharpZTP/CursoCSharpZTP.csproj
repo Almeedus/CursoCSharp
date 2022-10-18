@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,13 +45,27 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
+    <Compile Include="ClassesEMetodos\AtribuicaoValorEReferencia.cs" />
     <Compile Include="ClassesEMetodos\AtributoEstatico.cs" />
     <Compile Include="ClassesEMetodos\Construtor.cs" />
     <Compile Include="ClassesEMetodos\DesafioAcessarAtributo.cs" />
+    <Compile Include="ClassesEMetodos\EnumeracoesEnum.cs" />
+    <Compile Include="ClassesEMetodos\EstruturacaoStruct.cs" />
+    <Compile Include="ClassesEMetodos\GettersESetters.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\ParametrosComValorPadrao.cs" />
+    <Compile Include="ClassesEMetodos\ParametrosNomeados.cs" />
     <Compile Include="ClassesEMetodos\Params.cs" />
     <Compile Include="ClassesEMetodos\Pessoa.cs" />
+    <Compile Include="ClassesEMetodos\Propriedades.cs" />
+    <Compile Include="ClassesEMetodos\Readondly.cs" />
+    <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
+    <Compile Include="ClassesEMetodos\ValoresPorReferencia.cs" />
+    <Compile Include="Colecoes\ColecaoArray.cs" />
+    <Compile Include="Colecoes\ColecaoArrayList.cs" />
+    <Compile Include="Colecoes\ColecaoLista.cs" />
+    <Compile Include="DesafiosDanilo\DesafioDePing.cs" />
     <Compile Include="DesafiosDanilo\Loop9.cs" />
     <Compile Include="EstruturaDeControle\DoWhile.cs" />
     <Compile Include="EstruturaDeControle\EstruturaElse.cs" />

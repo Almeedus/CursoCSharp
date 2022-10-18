@@ -6,6 +6,7 @@ using CursoCSharpZTP.EstruturaDeControle;
 using CursoCSharpZTP.ClassesEMetodos;
 using CursoCSharpZTP;
 using CursoCSharpZTP.DesafiosDanilo;
+using CursoCSharpZTP.Colecoes;
 
 namespace CursoCSharp {
     class Program {
@@ -43,9 +44,25 @@ namespace CursoCSharp {
                 {"Atributo Estático - Classes e Metodos", AtributoEstatico.Executar},
                 {"Desafio Acessar Atributo - Classes e Metodos", DesafioAcessarAtributo.Executar},
                 {"Parametros Variaveis - Classes e Metodos", Params.Executar},
+                {"Parametros Nomeados - Classes e Metodos", ParametrosNomeados.Executar},
+                {"Getters E Setters - Classes e Metodos", GettersESetters.Executar},
+                {"Propriedades - Classes e Metodos", Propriedades.Executar},
+                {"Readondly - Classes e Metodos", Readondly.Executar},
+                {"Enum - Classes e Metodos", EnumeracoesEnum.Executar},
+                {"EstruturacaoStruct - Classes e Metodos", EstruturacaoStruct.Executar},
+                {"Struct Vs Classe - Classes e Metodos", StructVsClasse.Executar},
+                {"Atribuicao Valor E Referencia - Classes e Metodos", AtribuicaoValorEReferencia.Executar},
+                {"Valores Por Referencia (REF e OUT) - Classes e Metodos", ValoresPorReferencia.Executar},
+                {"Parametros Com Valor Padrao - Classes e Metodos", ParametrosComValorPadrao.Executar},
+
+                //Coleções
+                {"Array - Classes e Metodos", ColecaoArray.Executar},
+                {"List - Classes e Metodos", ColecaoLista.Executar},
+                {"ArrayList - Classes e Metodos", ColecaoArrayList.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
+                {"Desafio De Ping - Desafio", DesafioDePing.Executar},
             });
 
             central.SelecionarEExecutar();
