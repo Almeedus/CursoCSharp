@@ -63,6 +63,8 @@
     <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
     <Compile Include="ClassesEMetodos\ValoresPorReferencia.cs" />
     <Compile Include="Colecoes\ColecaoArray.cs" />
+    <Compile Include="Colecoes\ColecaoQueue.cs" />
+    <Compile Include="Colecoes\ColecaoSet.cs" />
     <Compile Include="Colecoes\ColecaoArrayList.cs" />
     <Compile Include="Colecoes\ColecaoLista.cs" />
     <Compile Include="DesafiosDanilo\DesafioDePing.cs" />

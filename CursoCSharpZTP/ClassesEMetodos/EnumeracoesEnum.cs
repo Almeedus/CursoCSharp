@@ -15,7 +15,7 @@ namespace CursoCSharpZTP.ClassesEMetodos {
 
     internal class EnumeracoesEnum {
         public static void Executar() {
-            int id = (int)Genero.Animacao; //convertendo um enum para um int
+            // int id = (int)Genero.Animacao; //convertendo um enum para um int
 
 
             var FilmeParaFamilia = new Filme() {

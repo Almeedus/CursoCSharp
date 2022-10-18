@@ -56,9 +56,11 @@ namespace CursoCSharp {
                 {"Parametros Com Valor Padrao - Classes e Metodos", ParametrosComValorPadrao.Executar},
 
                 //Coleções
-                {"Array - Classes e Metodos", ColecaoArray.Executar},
-                {"List - Classes e Metodos", ColecaoLista.Executar},
-                {"ArrayList - Classes e Metodos", ColecaoArrayList.Executar},
+                {"Array - Coleções", ColecaoArray.Executar},
+                {"List - Coleções", ColecaoLista.Executar},
+                {"ArrayList - Coleções", ColecaoArrayList.Executar},
+                {"Set - Coleções", ColecaoSet.Executar},
+                {"Queue - Coleções", ColecaoQueue.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
