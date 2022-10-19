@@ -63,10 +63,13 @@
     <Compile Include="ClassesEMetodos\StructVsClasse.cs" />
     <Compile Include="ClassesEMetodos\ValoresPorReferencia.cs" />
     <Compile Include="Colecoes\ColecaoArray.cs" />
+    <Compile Include="Colecoes\ColecaoIgualdade.cs" />
     <Compile Include="Colecoes\ColecaoQueue.cs" />
     <Compile Include="Colecoes\ColecaoSet.cs" />
     <Compile Include="Colecoes\ColecaoArrayList.cs" />
     <Compile Include="Colecoes\ColecaoLista.cs" />
+    <Compile Include="Colecoes\ColecaoStack.cs" />
+    <Compile Include="Colecoes\ColecoesDictionary.cs" />
     <Compile Include="DesafiosDanilo\DesafioDePing.cs" />
     <Compile Include="DesafiosDanilo\Loop9.cs" />
     <Compile Include="EstruturaDeControle\DoWhile.cs" />

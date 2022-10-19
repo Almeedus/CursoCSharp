@@ -13,6 +13,17 @@ namespace CursoCSharpZTP.Colecoes {
             Nome = nome;
             Preco = preco;
         }
+
+        public override bool Equals(object obj) {
+            Produto outroProduto = (Produto)obj;
+            bool mesmoNome = Nome == outroProduto.Nome;
+            bool mesmoPreco = Preco == outroProduto.Preco;
+            return base.Equals(obj);
+        }
+        public override int GetHashCode() {
+            return Nome.Length;
+        }
+
         public Produto() { }
 
     }

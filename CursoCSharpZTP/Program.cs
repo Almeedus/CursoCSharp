@@ -61,6 +61,9 @@ namespace CursoCSharp {
                 {"ArrayList - Coleções", ColecaoArrayList.Executar},
                 {"Set - Coleções", ColecaoSet.Executar},
                 {"Queue - Coleções", ColecaoQueue.Executar},
+                {"Igualdade - Coleções", ColecaoIgualdade.Executar},
+                {"Stack - Coleções", ColecaoStack.Executar},
+                {"Dictionary - Coleções", ColecoesDictionary.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
