@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using CursoCSharpZTP.Fundamentos;
 using CursoCSharpZTP.EstruturaDeControle;
 using CursoCSharpZTP.ClassesEMetodos;
 using CursoCSharpZTP;
 using CursoCSharpZTP.DesafiosDanilo;
 using CursoCSharpZTP.Colecoes;
+using CursoCSharpZTP.OrientacaoObjetos;
+using CursoCSharpZTP.FuncoesMetodos;
 
 namespace CursoCSharp {
     class Program {
@@ -64,6 +65,20 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", ColecaoIgualdade.Executar},
                 {"Stack - Coleções", ColecaoStack.Executar},
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
+
+                //Orientação a Objetos
+                {"Herança - Orientação a Objetos", Heranca.Executar},
+                {"Construtor This - Orientação a Objetos", ConstrutorThis.Executar},
+                {"Encapsulamento - Orientação a Objetos", CursoCSharpZTP.OrientacaoObjetos.Encapsulamento.Executar},
+                {"Polimorfismo - Orientação a Objetos", Polimorfismo.Executar},
+                {"Abstract - Orientação a Objetos", Abstract.Executar},
+                {"Interface - Orientação a Objetos", Interface.Executar},
+                {"Classe e Metodo Selad (selado) - Orientação a Objetos", ClasseMetodoSelad.Executar},
+
+                //Funções e Métodos
+                {"Exemplo Lambda - Funções e Métodos", ExemploLambda.Executar},
+                {"Delegate Lambda - Funções e Métodos", DelegateLambda.Executar},
+                {"Delegate como Função Anonima - Funções e Métodos", DelegateFuncaoAnonima.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},

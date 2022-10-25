@@ -22,3 +22,6 @@ C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.pdb
 C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Debug\CursoCSharpZTP.exe.config
 C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Debug\CursoCSharpZTP.exe
 C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Debug\CursoCSharpZTP.pdb
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Debug\Encapsulamento.dll
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Debug\Encapsulamento.pdb
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Debug\CursoCSharpZTP.csproj.CopyComplete

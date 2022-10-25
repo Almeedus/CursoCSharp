@@ -1,0 +1,6 @@
+C:\Users\Touch\Documents\CursoCSharp\Encapsulamento\bin\Debug\Encapsulamento.dll
+C:\Users\Touch\Documents\CursoCSharp\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Touch\Documents\CursoCSharp\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Touch\Documents\CursoCSharp\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Touch\Documents\CursoCSharp\Encapsulamento\obj\Debug\Encapsulamento.dll
+C:\Users\Touch\Documents\CursoCSharp\Encapsulamento\obj\Debug\Encapsulamento.pdb

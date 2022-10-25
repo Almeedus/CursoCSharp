@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharpZTP", "CursoCSharpZTP\CursoCSharpZTP.csproj", "{A98F8841-352F-4A47-9AEB-E7F009E706FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{F8988703-B7C0-4E92-BC89-9AF62B607647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A98F8841-352F-4A47-9AEB-E7F009E706FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A98F8841-352F-4A47-9AEB-E7F009E706FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A98F8841-352F-4A47-9AEB-E7F009E706FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8988703-B7C0-4E92-BC89-9AF62B607647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8988703-B7C0-4E92-BC89-9AF62B607647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8988703-B7C0-4E92-BC89-9AF62B607647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8988703-B7C0-4E92-BC89-9AF62B607647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -80,6 +80,9 @@
     <Compile Include="EstruturaDeControle\ForEach.cs" />
     <Compile Include="EstruturaDeControle\SwitchCase.cs" />
     <Compile Include="EstruturaDeControle\While.cs" />
+    <Compile Include="FuncoesMetodos\DelegateFuncaoAnonima.cs" />
+    <Compile Include="FuncoesMetodos\DelegateLambda.cs" />
+    <Compile Include="FuncoesMetodos\ExemploLambda.cs" />
     <Compile Include="Fundamentos\Comentario.cs" />
     <Compile Include="Fundamentos\ConversaoDeDados.cs" />
     <Compile Include="Fundamentos\FormatandoNumeros.cs" />
@@ -94,12 +97,24 @@
     <Compile Include="Fundamentos\OperadoresUnarios.cs" />
     <Compile Include="Fundamentos\VariavelEConstantes.cs" />
     <Compile Include="ClassesEMetodos\Membro.cs" />
+    <Compile Include="OrientacaoObjetos\Abstract.cs" />
+    <Compile Include="OrientacaoObjetos\ClasseMetodoSelad.cs" />
+    <Compile Include="OrientacaoObjetos\ConstrutorThis.cs" />
+    <Compile Include="OrientacaoObjetos\Encapsulamento.cs" />
+    <Compile Include="OrientacaoObjetos\Heranca.cs" />
+    <Compile Include="OrientacaoObjetos\Interface.cs" />
+    <Compile Include="OrientacaoObjetos\Polimorfismo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj">
+      <Project>{f8988703-b7c0-4e92-bc89-9af62b607647}</Project>
+      <Name>Encapsulamento</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
