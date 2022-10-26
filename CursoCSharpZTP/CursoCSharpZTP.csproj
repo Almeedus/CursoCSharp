@@ -44,6 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="API\Diretorios.cs" />
+    <Compile Include="API\LendoArquivos.cs" />
+    <Compile Include="API\PrimeiroArquivo.cs" />
+    <Compile Include="API\UsandoFileInfo.cs" />
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="ClassesEMetodos\AtribuicaoValorEReferencia.cs" />
     <Compile Include="ClassesEMetodos\AtributoEstatico.cs" />
@@ -80,6 +84,8 @@
     <Compile Include="EstruturaDeControle\ForEach.cs" />
     <Compile Include="EstruturaDeControle\SwitchCase.cs" />
     <Compile Include="EstruturaDeControle\While.cs" />
+    <Compile Include="ExcecaoTratamentoErro\ExcecaoPersonalizada.cs" />
+    <Compile Include="ExcecaoTratamentoErro\PrimeiraExcessao.cs" />
     <Compile Include="FuncoesMetodos\DelegateFuncaoAnonima.cs" />
     <Compile Include="FuncoesMetodos\DelegateLambda.cs" />
     <Compile Include="FuncoesMetodos\ExemploLambda.cs" />

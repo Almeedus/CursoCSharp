@@ -1,0 +1,11 @@
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Release\CursoCSharpZTP.exe.config
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Release\CursoCSharpZTP.exe
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Release\CursoCSharpZTP.pdb
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Release\Encapsulamento.dll
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\bin\Release\Encapsulamento.pdb
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Release\CursoCSharpZTP.csproj.AssemblyReference.cache
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Release\CursoCSharpZTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Release\CursoCSharpZTP.csproj.CoreCompileInputs.cache
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Release\CursoCSharpZTP.csproj.CopyComplete
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Release\CursoCSharpZTP.exe
+C:\Users\Touch\Documents\CursoCSharp\CursoCSharpZTP\obj\Release\CursoCSharpZTP.pdb

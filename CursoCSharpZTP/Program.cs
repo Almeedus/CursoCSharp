@@ -8,6 +8,8 @@ using CursoCSharpZTP.DesafiosDanilo;
 using CursoCSharpZTP.Colecoes;
 using CursoCSharpZTP.OrientacaoObjetos;
 using CursoCSharpZTP.FuncoesMetodos;
+using CursoCSharpZTP.ExcecaoTratamentoErro;
+using CursoCSharpZTP.API;
 
 namespace CursoCSharp {
     class Program {
@@ -79,6 +81,16 @@ namespace CursoCSharp {
                 {"Exemplo Lambda - Funções e Métodos", ExemploLambda.Executar},
                 {"Delegate Lambda - Funções e Métodos", DelegateLambda.Executar},
                 {"Delegate como Função Anonima - Funções e Métodos", DelegateFuncaoAnonima.Executar},
+
+                //Exceções e Tratamento de Erros
+                {"Primeira Excessao - Exceções e Tratamento de Erros", PrimeiraExcessao.Executar},
+                {"Exceção Personalizada - Exceções e Tratamento de Erros", ExcecaoPersonalizada.Executar},
+
+                //API
+                {"Primeiro Arquivo - API", PrimeiroArquivo.Executar},
+                {"Lendo Arquivos - API", LendoArquivos.Executar},
+                {"Usando o File Info - API", UsandoFileInfo.Executar},
+                {"Diretórios - API", Diretorios.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
