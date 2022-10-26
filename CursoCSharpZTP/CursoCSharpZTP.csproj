@@ -112,6 +112,11 @@
     <Compile Include="OrientacaoObjetos\Polimorfismo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopicosAvancados\Generics.cs" />
+    <Compile Include="TopicosAvancados\LINQ.cs" />
+    <Compile Include="TopicosAvancados\LINQ2.cs" />
+    <Compile Include="TopicosAvancados\Nullables.cs" />
+    <Compile Include="TopicosAvancados\VariaveisDinamicas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -122,5 +127,6 @@
       <Name>Encapsulamento</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

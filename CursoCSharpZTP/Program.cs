@@ -10,6 +10,7 @@ using CursoCSharpZTP.OrientacaoObjetos;
 using CursoCSharpZTP.FuncoesMetodos;
 using CursoCSharpZTP.ExcecaoTratamentoErro;
 using CursoCSharpZTP.API;
+using CursoCSharpZTP.TopicosAvancados;
 
 namespace CursoCSharp {
     class Program {
@@ -91,6 +92,13 @@ namespace CursoCSharp {
                 {"Lendo Arquivos - API", LendoArquivos.Executar},
                 {"Usando o File Info - API", UsandoFileInfo.Executar},
                 {"Diretórios - API", Diretorios.Executar},
+
+                //Avançados
+                {"LINQ - Avançados", LINQ.Executar},
+                {"LINQ 2 - Avançados", LINQ2.Executar},
+                {"Nullables - Avançados", Nullables.Executar},
+                {"Variaveis Dinamicas - Avançados", VariaveisDinamicas.Executar},
+                {"Generics - Avançados", Generics.Executar},
 
                 //Danilão
                 {"Pequena Sereia - Desafio", Loop9.Executar},
